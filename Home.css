@@ -1,0 +1,884 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+#navv{
+    margin-left: 35px;
+}
+
+#navv:hover{
+    color: blue;
+}
+#Stride{
+    color: rgb(50, 81, 192);
+    font-size: x-large
+}
+#blog{
+border: solid rgb(3, 3, 118) 1px;
+color: blue;
+border-radius: 0%;
+background: #fefdfd;
+}
+
+#blog:hover{
+background: blue;
+color: white;
+}
+
+#bsign{
+color: white;
+background: blue;
+border-radius: 0%;
+}
+
+
+#bsign:hover{
+color: white;
+background: #18055d;
+}
+#textOverPhoto{
+    color: #18055d;
+}
+#m{
+    width: 100%;
+}
+#text{
+    color: white;
+}
+#paragraph{
+    color: white;
+}
+#butn{
+    background: white;
+    color: blue;
+}
+#butn:hover{
+    background: blue;
+    color: white;
+}
+
+section{
+	padding: 20rem ;
+}
+
+.main{
+    background: url(https://test-www.k12.com/content/dam/stride-edge/Home_page.png) no-repeat ; 
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	min-height: 100vh;
+	background-position: center;
+	width: 100%;
+}
+#overlay{
+    width: 50%;
+	max-width: 60rem;
+    margin-left: 11%;
+}
+#text{
+    font-size: 70px
+}
+#textt{
+    color: white;
+    font-size: 20px;
+}
+#play{
+    color: white;
+}
+#container{
+    width: 85%;
+    height: 60vh;
+    background: #e9e8e8;
+    display: flex;
+    flex-direction: row;
+    margin: 7.5%;
+   
+}
+.images{
+    width: 30%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    background-image: url(https://stage.stridelearning.com/us/en/stride-tutoring/_jcr_content/root/container_164328839/teaser.coreimg.png/1663026738386/image-12.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.quiz{
+    width: 50%;
+    margin-top: 2%;
+    background: #e9e8e8;
+    margin-left: 20%;
+}
+#l{
+    color: #000;
+    font-size: 25px;
+}
+#ll{
+    color: gray;
+    font-size: 20px;
+}
+#bb{
+    background: #e9e8e8;
+    border: solid blue 1px;
+    border-radius: 0%;
+    color: blue;
+}
+#bb:hover{
+    background: blue;
+    color: white;
+}
+.join{
+    text-align: center;
+}
+.three{
+    width: 100%;
+    height: auto;
+    display:flex ;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+    overflow: hidden;
+}
+#one{
+    width: 30%;
+    border: solid black 1px;
+   
+}
+#two{
+    width: 30%;
+    border: solid black 1px;
+}
+#thre{
+    width: 30%;
+    border: solid black 1px;
+}
+
+
+.tutor{
+    background: rgb(205, 234, 252);
+    width: 100%;
+    height: 80vh;
+    margin-top: 6%;
+    display: flex;
+}
+#tutorone{
+    width: 50%;
+    margin-left: 8%;
+    margin-top: 4%;
+
+}
+#tutortwo{
+    width: 50%;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+#tutortwo img{
+    width: 100%;
+ }
+
+#bt{
+    color: white;
+    background-color: blue;
+    border-radius: 0%;
+}
+.student{
+    text-align: center;
+    margin-top: 4%;
+}
+
+.all{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.feed{
+    border:  1px rgb(231, 228, 228) solid;
+    width: 25%;
+    padding: 14px;
+    margin-top: 4%;
+    margin-left: 7%;
+    
+}
+#logo{
+    width: 50%;
+    height: 90px;
+    margin-left: 10%;
+   border-radius: 50%;
+    float: left;
+}
+.logocontent{
+    float: right;
+}
+#logopluscontent{
+display: flex;
+}
+.question{
+    text-align: center;
+    margin-top: 10%;
+}
+.colap{
+    width: 80%;
+    margin: auto;
+}
+.card-body{
+    color: rgb(98, 97, 97);
+}
+.read{
+    text-align: center;
+    margin-top: 7%;
+}
+.foot{
+    background: rgb(28, 28, 201);
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.leftcontainer{
+    color: white;
+    width: 50%;
+    margin-left: 4%;
+}
+.form{
+    width: 30%;
+    background: white;
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-bottom: 2%;
+}
+#f{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#m{
+    margin-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:990px) {
+
+
+
+    #container{
+        width: 100%;
+        height: auto;
+        display: block;
+       margin-left: 0;
+    }
+    .images{
+        width: 80%;
+    margin-top: 2%;
+    margin-left: 9%;
+    margin-bottom: 2%;
+    height: 60vh;
+    }
+
+    .quiz{
+        width: 50%;
+        margin-top: 2%;
+        margin-left: 20%;
+    }
+
+    #bb{
+        margin-bottom: 10%;
+    }
+
+    .join h1{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .three{
+        width: 100%;
+        height: auto;
+        display:block;
+
+    }
+
+    #one{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #two{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #thre{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .tutor{
+        width: 100%;
+        height: 120vh;
+        margin-top: 6%;
+        display: block;
+    }
+
+    #tutorone{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #tutortwo{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+     }
+
+     #tutortwo img{
+        width: 100%;
+     }
+
+     .student{
+        text-align: center;
+        margin-top: 15%;
+        margin-bottom: 5%;
+    }
+
+    .all{
+        width: 100%;
+        display: block;
+    }
+
+    .feed{
+        width: 96%;
+        padding: 14px;
+        margin-top: 4%;
+        margin-left: 2%;
+        margin-right: 2%;
+        
+    }
+    #logo{
+        width: 50%;
+        height: 90px;
+        margin-left: 10%;
+    
+        border-radius: 50%;
+        float: left;
+    }
+    .logocontent{
+        float: right;
+    }
+    #logopluscontent{
+    display: flex;
+    }
+
+    .foot{
+        width: 100%;
+        margin-top: 5%;
+        display: block;
+    }
+    .leftcontainer{
+        width: 96%;
+        margin-left: 2%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+    }
+    .form{
+        width: 96%;
+        margin-left: 2%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+    }
+
+    #f{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    #m{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+
+
+    /* image Main */
+
+    .main{
+        background-size: cover;
+        align-items: center;
+        min-height: 50vh;
+        background-position: center;
+        width: 100%;
+    }
+    #overlay{
+width: 60%;
+        margin-left: 11%;
+    }
+    #text{
+        font-size: 30px
+    }
+    #textt{
+        color: white;
+        font-size: 15px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:400px) {
+    #d{
+        font-size: 14px;
+        margin-left: 0%;
+    }
+
+    #dt{
+        font-size: 14px;
+      
+    }
+
+}
+
+
+
+@media (max-width:468px) {
+
+
+
+    .main{
+        background-size: cover;
+        align-items: center;
+        min-height: 50vh;
+        background-position: center;
+        width: 100%;
+    }
+    #overlay{
+        width: 80%;
+        max-width: 60rem;
+        margin-left: 11%;
+    }
+    #text{
+        font-size: 20px
+    }
+    #textt{
+        color: white;
+        font-size: 10px;
+    }
+
+    #container{
+        width: 100%;
+        height: auto;
+        display: block;
+       margin-left: 0;
+    }
+    .images{
+        width: 80%;
+    margin-top: 2%;
+    margin-left: 9%;
+    margin-bottom: 2%;
+    height: 60vh;
+    }
+
+    .quiz{
+        width: 50%;
+        margin-top: 2%;
+        margin-left: 20%;
+    }
+
+    #bb{
+        margin-bottom: 10%;
+    }
+
+    .join h1{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .three{
+        width: 100%;
+        height: auto;
+        display:block;
+
+    }
+
+    #one{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #two{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #thre{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .tutor{
+        width: 100%;
+        height: 120vh;
+        margin-top: 6%;
+        display: block;
+    }
+
+    #tutorone{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #tutortwo{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+     }
+
+     #tutortwo img{
+        width: 100%;
+     }
+
+     .student{
+        text-align: center;
+        margin-top: 15%;
+        margin-bottom: 5%;
+    }
+
+    .all{
+        width: 100%;
+        display: block;
+    }
+
+    .feed{
+        width: 96%;
+        padding: 14px;
+        margin-top: 4%;
+        margin-left: 2%;
+        margin-right: 2%;
+        
+    }
+    #logo{
+        width: 50%;
+        height: 90px;
+        margin-left: 10%;
+    
+        border-radius: 50%;
+        float: left;
+    }
+    .logocontent{
+        float: right;
+    }
+    #logopluscontent{
+    display: flex;
+    }
+
+    .foot{
+        width: 100%;
+        margin-top: 5%;
+        display: block;
+    }
+    .leftcontainer{
+        width: 96%;
+        margin-left: 2%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+    }
+    .form{
+        width: 96%;
+        height: auto;
+        margin-left: 2%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+    }
+
+    #f{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    #m{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:350px) {
+
+
+    #d{
+        font-size: 12px;
+        margin-left: 0%;
+        
+    }
+
+    #dt{
+        font-size: 12px;
+        margin-left: 0%;
+    }
+ 
+
+    .main{
+        background-size: cover;
+        align-items: center;
+        min-height: 50vh;
+        background-position: center;
+        width: 100%;
+    }
+    #overlay{
+        width: 80%;
+        max-width: 60rem;
+        margin-left: 11%;
+    }
+    #text{
+        font-size: 15px
+    }
+    #textt{
+        color: white;
+        font-size: 8px;
+    }
+
+    #container{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .images{
+        width: 80%;
+    margin-top: 2%;
+    margin-left: 9%;
+    margin-bottom: 2%;
+    height: 60vh;
+    }
+
+    .quiz{
+        width: 50%;
+        margin-top: 2%;
+        margin-left: 20%;
+    }
+
+    #bb{
+        margin-bottom: 10%;
+    }
+
+    .join{
+        width: 100%;
+    }
+    .join h1{
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .three{
+        width: 100%;
+        height: auto;
+        display:block;
+    }
+
+    #one{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #two{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #thre{
+        width: 96%;
+        margin-top:2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .tutor{
+        width: 100%;
+        height: 120vh;
+        margin-top: 6%;
+        display: block;
+    }
+
+    #tutorone{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    #tutortwo{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+     }
+
+     #tutortwo img{
+        width: 100%;
+     }
+
+     .student{
+        text-align: center;
+        margin-top: 15%;
+        margin-bottom: 5%;
+        width: 100%;
+    }
+
+    .all{
+        width: 100%;
+        display: block;
+    }
+
+    .feed{
+        width: 96%;
+        padding: 14px;
+        margin-top: 4%;
+        margin-left: 2%;
+        margin-right: 2%;
+        
+    }
+    #logo{
+        width: 50%;
+        height: 90px;
+        margin-left: 10%;
+    
+        border-radius: 50%;
+        float: left;
+    }
+    .logocontent{
+        float: right;
+    }
+    #logopluscontent{
+    display: flex;
+    }
+
+    .foot{
+        width: 100%;
+        margin-top: 5%;
+        display: block;
+    }
+    .leftcontainer{
+        width: 96%;
+        margin-left: 2%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+    }
+    .form{
+        width: 96%;
+        height: auto;
+        margin-left: 2%;
+        margin-bottom: 5%;
+        margin-right: 2%;
+    }
+
+    #f{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    #m{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .navvv{
+        width: 88%;
+    }
+}
+
+
+@media (max-width:310px) {
+
+    #d{
+        font-size: 10px;
+    }
+    #dt{
+        font-size: 10px;
+    }
+}
